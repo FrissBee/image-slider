@@ -4,7 +4,7 @@ An easy to integrate image slider for your website.
 
 # Preview
 
-If you first want to see if the image slider is what you are looking for, [you can view it here]().
+If you first want to see if the image slider is what you are looking for, [you can view it here](https://image-slider.frissbee.de/).
 
 # Implementation
 
